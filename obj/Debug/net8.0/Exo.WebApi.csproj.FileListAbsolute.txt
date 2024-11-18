@@ -271,3 +271,4 @@ C:\Users\victo\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE (3)\Exo.WebApi\ob
 C:\Users\victo\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE (3)\Exo.WebApi\obj\Debug\net8.0\Exo.WebApi.pdb
 C:\Users\victo\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE (3)\Exo.WebApi\obj\Debug\net8.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\victo\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE (3)\Exo.WebApi\obj\Debug\net8.0\ref\Exo.WebApi.dll
+C:\Users\victo\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE (3)\Exo.WebApi\obj\Debug\net8.0\Exo.WebApi.sourcelink.json
